@@ -1,0 +1,51 @@
+{
+  "original_total_mb": 234.12,
+  "new_total_mb": 12.62,
+  "images_referenced": 91,
+  "images_files": 70,
+  "missing_before": [],
+  "missing_after": [],
+  "index_bytes": 208666,
+  "largest_files": [
+    [
+      548312,
+      "imagens/betania-al-eizariya-cisjordania.webp"
+    ],
+    [
+      455920,
+      "imagens/wild-jordan-ajloun.webp"
+    ],
+    [
+      435722,
+      "imagens/novo-iconio.webp"
+    ],
+    [
+      432564,
+      "imagens/oxford-efeso.webp"
+    ],
+    [
+      413916,
+      "imagens/tel-dan-ns-14841.webp"
+    ],
+    [
+      410262,
+      "imagens/novo-chipre.webp"
+    ],
+    [
+      404852,
+      "imagens/harran-evleri-20220918-4.webp"
+    ],
+    [
+      396312,
+      "imagens/ma-ayan-harod-national-park-harod-valley-israel-10.webp"
+    ],
+    [
+      371066,
+      "imagens/machaerus-panorama.webp"
+    ],
+    [
+      345256,
+      "imagens/bab-edh-dhra-gate-overlooking-south-end-dead-sea-2014.webp"
+    ]
+  ]
+}
