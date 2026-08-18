@@ -1,0 +1,326 @@
+[
+  {
+    "n": 1,
+    "name": "Enoque",
+    "theme": "Ele andou com Deus",
+    "file": "./personagens/mapas/01-enoque.webp"
+  },
+  {
+    "n": 2,
+    "name": "Noé",
+    "theme": "Sua fé condenou o mundo",
+    "file": "./personagens/mapas/02-noe.webp"
+  },
+  {
+    "n": 3,
+    "name": "Sara",
+    "theme": "Ela se recusou a olhar para trás",
+    "file": "./personagens/mapas/03-sara.webp"
+  },
+  {
+    "n": 4,
+    "name": "Abraão",
+    "theme": "O primeiro homem a lutar numa guerra justa",
+    "file": "./personagens/mapas/04-abraao.webp"
+  },
+  {
+    "n": 5,
+    "name": "Abraão",
+    "theme": "Ele enfrentou seu maior desafio",
+    "file": "./personagens/mapas/05-abraao.webp"
+  },
+  {
+    "n": 6,
+    "name": "Rebeca",
+    "theme": "Ela aceitou ir para uma terra distante",
+    "file": "./personagens/mapas/06-rebeca.webp"
+  },
+  {
+    "n": 7,
+    "name": "Jacó",
+    "theme": "Ele protegeu sua família com coragem",
+    "file": "./personagens/mapas/07-jaco.webp"
+  },
+  {
+    "n": 8,
+    "name": "José",
+    "theme": "Ele resistiu à tentação",
+    "file": "./personagens/mapas/08-jose.webp"
+  },
+  {
+    "n": 9,
+    "name": "Sifrá, Puá, Anrão, Joquebede e Miriã",
+    "theme": "“Pela fé Moisés foi escondido” Sifrá, Puá, Anrão, Joquebede, Miriã",
+    "file": "./personagens/mapas/09-sifra-pua-anrao-joquebede-e-miria.webp"
+  },
+  {
+    "n": 10,
+    "name": "Moisés",
+    "theme": "Ele tomou a decisão certa",
+    "file": "./personagens/mapas/10-moises.webp"
+  },
+  {
+    "n": 11,
+    "name": "Moisés",
+    "theme": "“Apresente-se a Faraó”",
+    "file": "./personagens/mapas/11-moises.webp"
+  },
+  {
+    "n": 12,
+    "name": "Calebe",
+    "theme": "Ele continuou leal ao seu Deus",
+    "file": "./personagens/mapas/12-calebe.webp"
+  },
+  {
+    "n": 13,
+    "name": "Josué",
+    "theme": "Ele obedeceu mesmo sem entender",
+    "file": "./personagens/mapas/13-josue.webp"
+  },
+  {
+    "n": 14,
+    "name": "Raabe",
+    "theme": "Ela escolheu o lado de Jeová",
+    "file": "./personagens/mapas/14-raabe.webp"
+  },
+  {
+    "n": 15,
+    "name": "Noemi e Rute",
+    "theme": "Elas enfrentaram juntas as dificuldades",
+    "file": "./personagens/mapas/15-noemi-e-rute.webp"
+  },
+  {
+    "n": 16,
+    "name": "Baraque e Débora",
+    "theme": "“Certamente irei com você”",
+    "file": "./personagens/mapas/16-baraque-e-debora.webp"
+  },
+  {
+    "n": 17,
+    "name": "Jael",
+    "theme": "“A mais abençoada das mulheres”",
+    "file": "./personagens/mapas/17-jael.webp"
+  },
+  {
+    "n": 18,
+    "name": "Gideão",
+    "theme": "Ele foi corajoso e cuidadoso",
+    "file": "./personagens/mapas/18-gideao.webp"
+  },
+  {
+    "n": 19,
+    "name": "Jefté e sua filha",
+    "theme": "Eles cumpriram um voto que exigiu um grande sacrifício",
+    "file": "./personagens/mapas/19-jefte-e-sua-filha.webp"
+  },
+  {
+    "n": 20,
+    "name": "Sansão",
+    "theme": "Ele foi corajoso mesmo quando estava fraco",
+    "file": "./personagens/mapas/20-sansao.webp"
+  },
+  {
+    "n": 21,
+    "name": "Samuel",
+    "theme": "Ele teve a coragem de falar em nome de Jeová",
+    "file": "./personagens/mapas/21-samuel.webp"
+  },
+  {
+    "n": 22,
+    "name": "Jonatã",
+    "theme": "Sua lealdade exigiu coragem",
+    "file": "./personagens/mapas/22-jonata.webp"
+  },
+  {
+    "n": 23,
+    "name": "Davi",
+    "theme": "Ele enfrentou um gigante",
+    "file": "./personagens/mapas/23-davi.webp"
+  },
+  {
+    "n": 24,
+    "name": "Abigail",
+    "theme": "Ela lidou com dois homens furiosos",
+    "file": "./personagens/mapas/24-abigail.webp"
+  },
+  {
+    "n": 25,
+    "name": "Davi",
+    "theme": "Coragem guiada pela consciência",
+    "file": "./personagens/mapas/25-davi.webp"
+  },
+  {
+    "n": 26,
+    "name": "Natã",
+    "theme": "Ele corrigiu o rei",
+    "file": "./personagens/mapas/26-nata.webp"
+  },
+  {
+    "n": 27,
+    "name": "Mefibosete",
+    "theme": "Ele não se deixou abater pelas dificuldades",
+    "file": "./personagens/mapas/27-mefibosete.webp"
+  },
+  {
+    "n": 28,
+    "name": "Asa",
+    "theme": "Ele serviu a Jeová “durante toda a sua vida”",
+    "file": "./personagens/mapas/28-asa.webp"
+  },
+  {
+    "n": 29,
+    "name": "Elias",
+    "theme": "“Meu Deus é Jeová”",
+    "file": "./personagens/mapas/29-elias.webp"
+  },
+  {
+    "n": 30,
+    "name": "A viúva de Sarefá",
+    "theme": "Ela encontrou coragem em um momento de aflição",
+    "file": "./personagens/mapas/30-a-viuva-de-sarefa.webp"
+  },
+  {
+    "n": 31,
+    "name": "A menina israelita",
+    "theme": "Uma menina corajosa falou sobre seu Deus",
+    "file": "./personagens/mapas/31-a-menina-israelita.webp"
+  },
+  {
+    "n": 32,
+    "name": "Eliseu",
+    "theme": "‘Ó Jeová, abre os olhos dele’",
+    "file": "./personagens/mapas/32-eliseu.webp"
+  },
+  {
+    "n": 33,
+    "name": "Jeoiada",
+    "theme": "Ele protegeu o reinado",
+    "file": "./personagens/mapas/33-jeoiada.webp"
+  },
+  {
+    "n": 34,
+    "name": "Ezequias",
+    "theme": "“Ele se apegava a Jeová”",
+    "file": "./personagens/mapas/34-ezequias.webp"
+  },
+  {
+    "n": 35,
+    "name": "Manassés",
+    "theme": "Ele teve coragem para mudar",
+    "file": "./personagens/mapas/35-manasses.webp"
+  },
+  {
+    "n": 36,
+    "name": "Josias",
+    "theme": "Ele ajudou o povo a voltar para Jeová",
+    "file": "./personagens/mapas/36-josias.webp"
+  },
+  {
+    "n": 37,
+    "name": "Daniel",
+    "theme": "Ele decidiu que “não se tornaria impuro”",
+    "file": "./personagens/mapas/37-daniel.webp"
+  },
+  {
+    "n": 38,
+    "name": "Os três hebreus",
+    "theme": "“Apagaram a força do fogo”",
+    "file": "./personagens/mapas/38-os-tres-hebreus.webp"
+  },
+  {
+    "n": 39,
+    "name": "Ester",
+    "theme": "“Se eu tiver de morrer, morrerei”",
+    "file": "./personagens/mapas/39-ester.webp"
+  },
+  {
+    "n": 40,
+    "name": "Neemias",
+    "theme": "Ele reconstruiu a muralha",
+    "file": "./personagens/mapas/40-neemias.webp"
+  },
+  {
+    "n": 41,
+    "name": "Zacarias e Elisabete",
+    "theme": "“Justos diante de Deus”",
+    "file": "./personagens/mapas/41-zacarias-e-elisabete.webp"
+  },
+  {
+    "n": 42,
+    "name": "Maria",
+    "theme": "Ela colocou sua vida nas mãos de Jeová",
+    "file": "./personagens/mapas/42-maria.webp"
+  },
+  {
+    "n": 43,
+    "name": "José",
+    "theme": "Ele cuidou bem de sua família",
+    "file": "./personagens/mapas/43-jose.webp"
+  },
+  {
+    "n": 44,
+    "name": "João Batista",
+    "theme": "“Não há ninguém maior”",
+    "file": "./personagens/mapas/44-joao-batista.webp"
+  },
+  {
+    "n": 45,
+    "name": "Pedro",
+    "theme": "‘Sou um homem pecador’",
+    "file": "./personagens/mapas/45-pedro.webp"
+  },
+  {
+    "n": 46,
+    "name": "Maria Madalena",
+    "theme": "“Eu vi o Senhor!”",
+    "file": "./personagens/mapas/46-maria-madalena.webp"
+  },
+  {
+    "n": 47,
+    "name": "Maria, irmã de Lázaro",
+    "theme": "Ela deu o seu melhor",
+    "file": "./personagens/mapas/47-maria-irma-de-lazaro.webp"
+  },
+  {
+    "n": 48,
+    "name": "Estêvão",
+    "theme": "Um “homem cheio de fé e de espírito santo”",
+    "file": "./personagens/mapas/48-estevao.webp"
+  },
+  {
+    "n": 49,
+    "name": "Pedro",
+    "theme": "Ele se tornou uma rocha",
+    "file": "./personagens/mapas/49-pedro.webp"
+  },
+  {
+    "n": 50,
+    "name": "Saulo de Tarso",
+    "theme": "Ele se tornou uma pessoa completamente diferente",
+    "file": "./personagens/mapas/50-saulo-de-tarso.webp"
+  },
+  {
+    "n": 51,
+    "name": "Barnabé",
+    "theme": "“Filho do consolo”",
+    "file": "./personagens/mapas/51-barnabe.webp"
+  },
+  {
+    "n": 52,
+    "name": "Marcos",
+    "theme": "“Ele é útil para mim”",
+    "file": "./personagens/mapas/52-marcos.webp"
+  },
+  {
+    "n": 53,
+    "name": "Paulo",
+    "theme": "“Eu os incentivo agora a ter coragem”",
+    "file": "./personagens/mapas/53-paulo.webp"
+  },
+  {
+    "n": 54,
+    "name": "Apóstolo João",
+    "theme": "Coragem em tempos sombrios",
+    "file": "./personagens/mapas/54-apostolo-joao.webp"
+  }
+]
